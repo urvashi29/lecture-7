@@ -16,6 +16,7 @@ class App extends Component {
 
 export default App;
 
-
+// task
+// create a form (name, age, email, password) and store that data as a object inside array in store
 
 
