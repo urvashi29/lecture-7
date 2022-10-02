@@ -6,7 +6,7 @@ class Counter extends Component {
     state = {
 
     }
-    
+
     handleClick = () => {
         this.props.onInc(2);
     }
